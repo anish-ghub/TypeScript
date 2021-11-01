@@ -1,0 +1,6 @@
+npm init -y // Empty package.json
+npm install typescript
+npx tsc
+npx tsc with-typescript.ts
+
+ts compiles into js
